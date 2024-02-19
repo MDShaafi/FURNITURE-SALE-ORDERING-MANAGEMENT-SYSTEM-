@@ -1,0 +1,2 @@
+# FURNITURE-SALE-ORDERING-MANAGEMENT-SYSTEM-
+In progress java assignment
